@@ -7,3 +7,8 @@ Idk why i'm still explaining this filth while I'm already in a hurry to end this
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
